@@ -39,13 +39,13 @@ con un mensaje descriptivo.
 
 **Descripción:** Gestiona las ramas del repositorio.
 
-**Ejemplo:** Crea una nueva rama y añadele un nombre identificativo 
+**Ejemplo:** Crea una nueva rama y añadele un nombre identificativo. 
 
 ## 7. git checkout / git checkout (nombre)
 
 **Descripción:** Cambia entre ramas.
 
-**Ejemplo:** cambiar a una rama
+**Ejemplo:** Cambiar de una rama a otra.
 
 ## 8. git merge
 
